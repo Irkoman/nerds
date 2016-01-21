@@ -892,7 +892,7 @@ textarea:-moz-placeholder {
 	margin-right: 0;
 }
 .item:hover {
-	border-top: 30px solid #797979;	
+	border-top: 30px solid #797979;
 }
 .item::before {
 	position: absolute;
